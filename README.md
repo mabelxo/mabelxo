@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mabel Harper.
+- 👋 Hi, I’m Mabel Harper (she/her).
 - 👀 I’m interested in music, art, and game design.
 - 🌱 I’m currently learning C# and Unity.
 - 💞️ I’m looking to collaborate on games and other art projects.
